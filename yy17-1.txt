@@ -1,5 +1,2 @@
-1
-2
-3
-amend1
-amend2
+amend demo 1
+amend demo 2
